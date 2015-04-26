@@ -1,0 +1,10 @@
+Package: apollo13
+Type: Package
+Title: Houston, We Have a Problem
+Version: 0.0.1
+Date: 2015-04-15
+Author: Dirk Eddelbuettel
+Maintainer: Dirk Eddelbuettel <edd@debian.org>
+Description: Import a number of helper functions without exposing any evil underscores.
+License: GPL (>= 2)
+Imports: devtools

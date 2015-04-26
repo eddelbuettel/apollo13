@@ -1,0 +1,3 @@
+exportPattern("^[[:alpha:]]+")
+
+importFrom(devtools, install_github, build)
